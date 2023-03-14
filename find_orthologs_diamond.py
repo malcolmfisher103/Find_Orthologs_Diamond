@@ -4,7 +4,7 @@
 Script for finding orthologs using reciprocal BLAST hits.
 
 Sript usage is as follows:
-    ./find_orthologs.py -i1 <Input file 1> -i2 <Input file 2> -o <Output file name>
+    ./find_orthologs_diamond.py -i1 <Input file 1> -i2 <Input file 2> -o <Output file name>
 
 '''
 import argparse
